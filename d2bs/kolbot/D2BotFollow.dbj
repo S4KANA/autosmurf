@@ -44,6 +44,7 @@ var AdvancedConfig = {
 		"MyProfile2": {JoinDelay: 6}
 	*/
 
+
 	// Put your lines under this one. Multiple entries are separated by commas. No comma after the last one.
 		"As2": {JoinDelay: rand(3, 5)},
 		"As3": {JoinDelay: rand(6, 8)},
